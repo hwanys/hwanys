@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh7353@naver.com)](https://github.com/ksh7353@naver.com/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanys)](https://github.com/hwanys/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksh7353@naver.com)](https://github.com/ksh7353@naver.com/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwanys)](https://github.com/hwanys/github-readme-stats)
 
 <!--
 **hwanys/hwanys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
