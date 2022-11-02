@@ -1,4 +1,4 @@
-<h2> Hi there 👋 I'm Seunghwan Kwak, Growing Developers<h2>
+<h2> Hi there 👋 I'm Seunghwan Kwak<h2>
 <h3 align="center">✨ keep in mind ✨ </h3>
 <p align="center"> Whoever knocks persistently, ends by entering </p>
 
